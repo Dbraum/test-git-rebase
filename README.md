@@ -1,4 +1,5 @@
 # test-git-rebase
+master
 add 
 fasd
 fasd
