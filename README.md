@@ -1,2 +1,7 @@
 # test-git-rebase
-add sometihongs
+add 
+fasd
+fasd
+fasd
+fas
+dfas
